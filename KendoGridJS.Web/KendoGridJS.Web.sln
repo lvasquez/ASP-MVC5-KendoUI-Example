@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoGridJS.Web", "KendoGridJS.Web\KendoGridJS.Web.csproj", "{55218BAD-58B3-434E-9114-BA6193473874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoGridJS.Web.Tests", "KendoGridJS.Web.Tests\KendoGridJS.Web.Tests.csproj", "{F763939C-2DA5-4378-AF9C-FDEB80819607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoGridJS.Core", "KendoGridJS.Core\KendoGridJS.Core.csproj", "{BBDAF755-C6EF-4C62-BAF3-382DAD841728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55218BAD-58B3-434E-9114-BA6193473874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55218BAD-58B3-434E-9114-BA6193473874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55218BAD-58B3-434E-9114-BA6193473874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55218BAD-58B3-434E-9114-BA6193473874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F763939C-2DA5-4378-AF9C-FDEB80819607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F763939C-2DA5-4378-AF9C-FDEB80819607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F763939C-2DA5-4378-AF9C-FDEB80819607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F763939C-2DA5-4378-AF9C-FDEB80819607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDAF755-C6EF-4C62-BAF3-382DAD841728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDAF755-C6EF-4C62-BAF3-382DAD841728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDAF755-C6EF-4C62-BAF3-382DAD841728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDAF755-C6EF-4C62-BAF3-382DAD841728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
